@@ -2,11 +2,11 @@
 Create CRUD application using react hooks and context api.
 
 ## Links
-Reactstrap : https://reactstrap.github.io/
+Reactstrap : https://github.com/chamilwickramasinghe/Docker_Containers.git
 
 ### Video Tutorial
-[Part 1](https://www.youtube.com/watch?v=4V7CwC_4oss)
-[Part 2](https://www.youtube.com/watch?v=xtllpDEOw4w)
+[Part 1]1.	https://mherman.org/blog/dockerizing-a-react-app/
+[Part 2]2.	https://www.youtube.com/watch?v=4V7CwC_4oss
 
 This project was bootstrapped with Create React App.
 
